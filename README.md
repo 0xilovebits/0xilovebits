@@ -2,7 +2,7 @@
 <h3 align="center" >A passionate Reverse Engineer exploring the depths of binaries and systems 🕵️‍♂️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=33FF99&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Reverse+Engineering+Enthusiast;Malware+Analyst;Always+Learning+%26+Sharing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=0BA922&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!;Reverse+Engineering+Enthusiast;Malware+Analyst;Always+Learning+%26+Sharing!" alt="Typing SVG" />
 </p>
 
 ---
