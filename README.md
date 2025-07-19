@@ -1,33 +1,34 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=1000&pause=1000&color=0BA922&center=true&vCenter=true&random=false&width=550&repeat=false&lines=Hi 👋, I'm 0xilovebits" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=1000&pause=1000&color=0BA922&center=true&vCenter=true&random=false&width=550&repeat=false&lines=Hi+👋,+I'm+0xilovebits" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1000&pause=1000&color=0BA922&center=true&vCenter=true&repeat=false&random=false&width=950&lines=A passionate Reverse Engineer exploring the depths of binaries and systems 🕵️‍♂️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1000&pause=1000&color=0BA922&center=true&vCenter=true&repeat=false&random=false&width=950&lines=A+passionate+Reverse+Engineer+exploring+the+depths+of+binaries+and+systems+%F0%9F%95%B5%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" />
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=0BA922&center=true&vCenter=true&random=false&width=450&lines=Welcome+to+my+GitHub+Profile!;Reverse+Engineering+Enthusiast;Malware+Analyst;Always+Learning+%26+Sharing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=0BA922&center=true&vCenter=true&random=false&width=450&repeat=false&lines=Welcome+to+my+GitHub+Profile!;Reverse+Engineering+Enthusiast;Malware+Analyst;Always+Learning+%26+Sharing!" alt="Typing SVG" />
 </p>
 
 ---
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xilovebits&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xilovebits&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xilovebits&theme=github_dark)
 
 ---
+
 > - 🕵️‍♂️ I’m a self-taught reverse engineer from Egypt.  
-> - 💻 Writing C and Python most of the time.
-> - 🌱 I’m currently learning Reverse Engineering.
+> - 💻 Writing C and Python most of the time.  
+> - 🌱 I’m currently learning Reverse Engineering.  
 > - 📫 Reach me on [Discord](https://discord.com/users/0xilovebits).  
+
 ---
 
-
-
-- **Achievements**
+- **Achievements**  
 > - 🥇 Nothing... for now! 😂  
 
 ---
+
 ## 🚀 Featured Projects
 
 <p align="center">
